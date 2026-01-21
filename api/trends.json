@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T15:10:30.459850+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-01-21T16:35:43.893294+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 110,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 16时35分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -124,11 +124,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 16时35分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -247,6 +248,20 @@
           "time_info": "04时17分"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时35分]"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121033511635800",
           "source": "金十数据",
@@ -278,6 +293,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时35分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -329,20 +359,6 @@
           "time_info": "[01时37分 ~ 02时55分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 15时10分]"
-        },
-        {
           "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
           "url": "https://wallstreetcn.com/livenews/3040687",
           "source": "华尔街见闻-快讯",
@@ -379,18 +395,17 @@
           "time_info": "[06时29分 ~ 07时31分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16,
-            15,
-            12
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 15时10分]"
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 16时35分]"
         },
         {
           "title": "特朗普：不会前往巴黎参加七国集团峰会",
@@ -477,16 +492,15 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
           "ranks": [
-            20,
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 15时10分]"
+          "time_info": "[13时36分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
@@ -520,6 +534,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "西门子能源董事长：如果美国最高法院推翻特朗普的部分关税，我很可能会鼓励管理层申请退税。",
+          "url": "https://flash.jin10.com/detail/20260121161610375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
@@ -654,13 +690,24 @@
           "time_info": "05时29分"
         },
         {
+          "title": "西门子能源董事长：公司首席执行官将于今天晚些时候出席美国总统特朗普与高管的会议。",
+          "url": "https://flash.jin10.com/detail/20260121161147233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
           "url": "https://www.cls.cn/detail/2264327",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -841,17 +888,6 @@
           "time_info": "12时10分"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
           "title": "美国总统特朗普：我们需要格陵兰岛来保障世界安全。",
           "url": "https://flash.jin10.com/detail/20260121043154545800",
           "source": "金十数据",
@@ -1023,7 +1059,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1229,7 +1265,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -1275,8 +1311,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1304,6 +1340,19 @@
           "time_info": "[10时22分 ~ 13时36分]"
         },
         {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 16时35分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
           "url": "https://wallstreetcn.com/livenews/3040698",
           "source": "华尔街见闻-快讯",
@@ -1314,18 +1363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时31分]"
-        },
-        {
-          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
-          "url": "https://www.cls.cn/detail/2264507",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 15时10分]"
         },
         {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
@@ -1399,6 +1436,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -1430,6 +1478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "拼多多美股夜盘涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -1462,6 +1521,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 10时22分]"
+        },
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时35分]"
         },
         {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
@@ -1504,7 +1575,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1518,17 +1589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
         },
         {
           "title": "钻石价格大跌 同期黄金价格涨超400%",
@@ -1570,7 +1630,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
@@ -1718,11 +1778,12 @@
             8,
             7,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时35分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1748,8 +1809,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时29分 ~ 15时10分]"
+          "appearance_count": 7,
+          "time_info": "[06时29分 ~ 16时35分]"
         },
         {
           "title": "花旗：日债动荡或导致高达1300亿美元的美债抛售",
@@ -1848,11 +1909,12 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 16时35分]"
         }
       ]
     },
