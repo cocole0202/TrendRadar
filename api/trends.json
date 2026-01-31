@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T16:26:25.917578+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-01-31T18:21:19.711103+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "斯塔默回击特朗普涉中英言论",
@@ -49,9 +49,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -59,11 +59,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -73,20 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
-        },
-        {
-          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
-          "url": "https://wallstreetcn.com/livenews/3047643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -94,11 +83,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -109,8 +99,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
+        },
+        {
+          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
+          "url": "https://wallstreetcn.com/livenews/3047643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 18时21分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -150,6 +153,41 @@
           "time_info": "[11时20分 ~ 13时36分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
           "url": "https://www.cls.cn/detail/2276010",
           "source": "财联社热门",
@@ -185,17 +223,6 @@
           "time_info": "[11时21分 ~ 13时36分]"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
           "url": "https://flash.jin10.com/detail/20260131111222966800",
           "source": "金十数据",
@@ -207,17 +234,6 @@
           "time_info": "13时36分"
         },
         {
-          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "美国边境事务主管霍曼：我传达的信息与自1月20日特朗普总统入主白宫以来的一贯立场完全一致，即我们将开展大规模驱逐行动，但会优先逮捕犯罪分子和公共安全威胁者。",
           "url": "https://flash.jin10.com/detail/20260131111141796800",
           "source": "金十数据",
@@ -227,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
@@ -265,7 +270,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -276,8 +281,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "金价下跌 多品牌设1-5%退货手续费",
@@ -328,6 +333,18 @@
           "time_info": "[11时20分 ~ 11时21分]"
         },
         {
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://wallstreetcn.com/livenews/3047622",
           "source": "华尔街见闻-快讯",
@@ -338,6 +355,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 13时36分]"
+        },
+        {
+          "title": "金价大幅下跌水贝市场有人果断抄底",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "专家称金价大跌是牛市调整",
@@ -351,17 +380,6 @@
           "time_info": "[11时20分 ~ 11时21分]"
         },
         {
-          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
-          "url": "https://flash.jin10.com/detail/20260131144922707800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://flash.jin10.com/detail/20260131084457932800",
           "source": "金十数据",
@@ -373,21 +391,21 @@
           "time_info": "11时21分"
         },
         {
-          "title": "金价大幅下跌水贝市场有人果断抄底",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
           "ranks": [
-            30
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国宣布对伊朗最新制裁措施",
@@ -397,8 +415,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://wallstreetcn.com/livenews/3047663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "伊朗最高领袖顾问：已掌握敌方作战计划，将适时发动打击",
@@ -408,8 +437,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "释新闻｜美军打击“箭在弦上”，伊朗有哪些应对手段？",
@@ -423,6 +452,18 @@
           "time_info": "[11时20分 ~ 13时36分]"
         },
         {
+          "title": "美军：不会容忍伊朗在军演中的“不安全行为”",
+          "url": "https://flash.jin10.com/detail/20260131142423425800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
           "title": "伊朗最高领袖顾问：将适时发动打击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A1%BE%E9%97%AE%EF%BC%9A%E5%B0%86%E9%80%82%E6%97%B6%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -434,26 +475,27 @@
           "time_info": "[11时20分 ~ 11时21分]"
         },
         {
-          "title": "美军：不会容忍伊朗在军演中的“不安全行为”",
-          "url": "https://flash.jin10.com/detail/20260131142423425800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "伊朗总统：敌对势力企图将伊朗社会抗议演变为内战",
           "url": "https://flash.jin10.com/detail/20260131141345920800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://flash.jin10.com/detail/20260131164253443800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "18时21分"
         }
       ]
     },
@@ -469,8 +511,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
@@ -481,8 +523,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时21分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
