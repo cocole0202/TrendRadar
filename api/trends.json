@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:47:07.821117+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-02-10T18:53:06.118921+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -45,16 +45,28 @@
           "time_info": "[11时49分 ~ 16时47分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
+          "url": "https://flash.jin10.com/detail/20260210182252680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
           "url": "https://www.toutiao.com/trending/7605068464549744178/",
           "source": "今日头条",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 18时53分]"
         },
         {
           "title": "美媒：丹麦另一领地或成特朗普的新目标",
@@ -66,6 +78,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 14时11分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-10）",
+          "url": "https://flash.jin10.com/detail/20260210181924005800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
@@ -114,6 +148,67 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗方面警告称，内塔尼亚胡访美将对谈判造成毁灭性影响。",
+          "url": "https://flash.jin10.com/detail/20260210162531438800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "阿曼苏丹同伊朗最高领袖顾问讨论伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3052958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "伊朗：若所有制裁解除可稀释浓缩铀",
+          "url": "https://www.toutiao.com/trending/7605017397435023366/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "伊朗外交部：若伊朗遭袭，将予以毁灭性回击",
+          "url": "https://wallstreetcn.com/livenews/3052952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
+          "url": "https://flash.jin10.com/detail/20260210155550497800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -146,48 +241,49 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美股",
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗方面警告称，内塔尼亚胡访美将对谈判造成毁灭性影响。",
-          "url": "https://flash.jin10.com/detail/20260210162531438800",
-          "source": "金十数据",
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 18时53分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
+          "url": "https://www.cls.cn/detail/2285220",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "伊朗：若所有制裁解除可稀释浓缩铀",
-          "url": "https://www.toutiao.com/trending/7605017397435023366/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 14时11分]"
         },
         {
-          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
-          "url": "https://flash.jin10.com/detail/20260210155550497800",
-          "source": "金十数据",
+          "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3052937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "18时53分"
         }
       ]
     },
@@ -200,11 +296,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时53分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
@@ -216,35 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 16时47分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
-          "url": "https://www.cls.cn/detail/2285220",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 14时11分]"
         }
       ]
     }
