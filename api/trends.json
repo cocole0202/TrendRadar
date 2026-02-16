@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T11:39:57.392514+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T14:05:04.244707+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -15,25 +15,37 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时05分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时05分]"
+        },
+        {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普或支持以色列打击伊朗",
@@ -43,8 +55,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时05分]"
+        },
+        {
+          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
+          "url": "https://flash.jin10.com/detail/20260216131526064800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "14时05分"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -61,7 +84,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
@@ -71,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时05分]"
         },
         {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
@@ -82,8 +105,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时05分]"
+        },
+        {
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         }
       ]
     },
@@ -99,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时05分]"
         }
       ]
     },
