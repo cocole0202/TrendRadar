@@ -1,12 +1,161 @@
 {
-  "generated_at": "2026-02-26T13:56:06.329623+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-26T16:42:36.350453+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "titles": [
+        {
+          "title": "中方正密切关注伊朗局势发展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "白宫官员希望以色列先打击伊朗",
+          "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "学者：伊朗的战略选择将牵动全球格局",
+          "url": "https://www.toutiao.com/trending/7610998592697798194/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国应该在谈判现场发表声明，而不是在媒体层面。",
+          "url": "https://flash.jin10.com/detail/20260226162517549800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们将在半小时后前往核谈判地点。据报道，美国官员之间似乎存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260226162446026800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗外长：伊朗已将导弹射程限制在2000公里以内",
+          "url": "https://wallstreetcn.com/livenews/3059224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美政府官员被曝希望以色列率先袭击伊朗，后者报复后美国再行动，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3059427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗外长会见阿曼外交大臣 伊美第三轮间接谈判开始",
+          "url": "https://flash.jin10.com/detail/20260226122053735800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "市场消息：阿曼将向美国谈判团队提交伊朗的提案草案。",
+          "url": "https://flash.jin10.com/detail/20260226160650158800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "【伊朗外长会见阿曼外交大臣 伊美第三轮间接谈判开始】伊朗外交部26日发布声明，称伊朗外交部长阿拉格齐与阿曼外交大臣巴德尔25日晚已在日内瓦会面。声明说，这意味着伊美第三轮间接谈判正式开始。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
+          "url": "https://flash.jin10.com/detail/20260226160237755800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗总统再次强调伊朗不会发展核武器",
+          "url": "https://wallstreetcn.com/livenews/3059400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 16时42分]"
+        },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
           "url": "https://wallstreetcn.com/articles/3766126",
@@ -14,17 +163,6 @@
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时56分]"
-        },
-        {
-          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
-          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -39,8 +177,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 16时42分]"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时42分]"
         },
         {
           "title": "美国多州政府和企业：特朗普，退钱！",
@@ -54,17 +203,6 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -74,56 +212,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
+        },
         {
-          "title": "学者：伊朗的战略选择将牵动全球格局",
-          "url": "https://www.toutiao.com/trending/7610998592697798194/",
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "特朗普顾问希望以色列先动手打伊朗",
+          "url": "https://www.toutiao.com/trending/7610052654202437668/",
           "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "伊朗外长：伊朗已将导弹射程限制在2000公里以内",
-          "url": "https://wallstreetcn.com/livenews/3059224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "伊朗外长会见阿曼外交大臣 伊美第三轮间接谈判开始",
-          "url": "https://flash.jin10.com/detail/20260226122053735800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "【伊朗外长会见阿曼外交大臣 伊美第三轮间接谈判开始】伊朗外交部26日发布声明，称伊朗外交部长阿拉格齐与阿曼外交大臣巴德尔25日晚已在日内瓦会面。声明说，这意味着伊美第三轮间接谈判正式开始。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3059267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "16时42分"
         }
       ]
     },
@@ -167,48 +277,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时56分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时56分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "女子泰国机场1110元金价买了周大福",
@@ -231,6 +301,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "游客泰国机场1110元金价买了周大福",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 16时42分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 16时42分]"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 13时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
