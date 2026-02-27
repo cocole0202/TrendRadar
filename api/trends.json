@@ -1,33 +1,108 @@
 {
-  "generated_at": "2026-02-27T11:28:30.030925+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-02-27T13:50:29.547495+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时50分]"
+        },
+        {
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "韩国批准谷歌的地图数据出口申请。",
+          "url": "https://flash.jin10.com/detail/20260227130247973800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "谷歌深夜发布生图模型Nano Banana 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时50分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
           "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时50分]"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "13时50分"
         },
         {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
@@ -39,12 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗武装部队：任何不明智的行动都将在西亚“引发大火”。",
@@ -62,50 +148,46 @@
           "url": "https://wallstreetcn.com/articles/3766294",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时50分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "谷歌深夜发布生图模型Nano Banana 2",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
-          "source": "百度热搜",
-          "ranks": [
+            17,
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时50分]"
+        },
+        {
+          "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260227124053017800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗石油出货量为何突然飙升",
+          "url": "https://www.toutiao.com/trending/7611366925066571302/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -121,8 +203,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时50分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -151,6 +233,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
