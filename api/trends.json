@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T12:15:04.522430+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-08T14:32:11.003495+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "伊朗战争丨伊朗发布打击美国军舰视频",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
@@ -80,42 +80,56 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "指责美在霍尔木兹海峡违反停火 伊朗公布回击画面",
+          "url": "https://wallstreetcn.com/livenews/3100449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "伊朗打击美舰 美袭击伊油轮",
           "url": "https://www.toutiao.com/trending/7637289576934936100/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "伊朗打击美舰 美空袭伊沿海地区",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0+%E7%BE%8E%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%B2%BF%E6%B5%B7%E5%9C%B0%E5%8C%BA",
           "source": "百度热搜",
           "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
+        },
+        {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            18,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
@@ -125,8 +139,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
+        },
+        {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
@@ -134,17 +160,6 @@
           "source": "知乎",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -190,9 +205,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "中情局估计美军封锁下伊朗至少可撑3到4个月",
+          "url": "https://wallstreetcn.com/livenews/3100447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "阿联酋称埃及战机已部署在其境内以应对伊朗袭击",
@@ -201,9 +227,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "伊朗警告地区国家不要采取军事冒险行动",
+          "url": "https://wallstreetcn.com/livenews/3100435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗外交部：（当被问及美国制裁部分伊拉克官员及抵抗组织时）美国以毫无根据的理由针对伊拉克官员，实在令人感到羞耻和可悲。",
+          "url": "https://flash.jin10.com/detail/20260508141040396800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "阿联酋称防空系统正应对伊朗导弹和无人机袭击",
@@ -212,7 +260,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -223,7 +271,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -234,15 +282,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "丰田预计年度利润下降20%，受伊朗战争影响",
+          "url": "https://wallstreetcn.com/livenews/3100403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普回应打击伊朗：只是轻微敲打",
@@ -252,8 +311,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "特朗普发言时突然跑题吐槽打字软件",
@@ -273,9 +332,56 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
+        },
+        {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普：美伊停火仍有效",
+          "url": "https://www.cls.cn/detail/2365528",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -289,48 +395,26 @@
           "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普：美伊停火仍有效",
-          "url": "https://www.cls.cn/detail/2365528",
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
@@ -339,7 +423,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -354,22 +438,24 @@
           "url": "https://wallstreetcn.com/articles/3771759",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
@@ -378,9 +464,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "DeepSeek-TUI是如何火起来的",
+          "url": "https://www.toutiao.com/trending/7637338304165187078/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         }
       ]
     },
@@ -396,8 +510,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -407,25 +521,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek-TUI是如何火起来的",
-          "url": "https://www.toutiao.com/trending/7637338304165187078/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         }
       ]
     },
@@ -441,8 +538,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时32分]"
         }
       ]
     },
@@ -457,7 +554,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
