@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:23:55.270338+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-22T20:15:47.402401+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -52,15 +52,37 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "美国国务卿卢比奥：特朗普对一些北约盟国感到失望。",
           "url": "https://wallstreetcn.com/livenews/3107918",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：沃什将使美联储回归本源。 沃什将恢复美联储的独立性。 特朗普相信沃什会以数据为依据。 存在石油冲击传导至核心通胀的风险。 美联储必须密切关注油价波动。",
+          "url": "https://wallstreetcn.com/livenews/3108041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -110,13 +132,35 @@
           "time_info": "[12时58分 ~ 16时23分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普相信即将上任美联储主席的沃什将会依据数据做出决策。",
+          "url": "https://flash.jin10.com/detail/20260522201007044800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "阿联酋与沙特阿拉伯和卡塔尔一道，敦促特朗普不要重启对伊战争。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3108028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
           "url": "https://wallstreetcn.com/articles/3772862",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -138,7 +182,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -149,9 +193,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "特朗普在社交媒体帖子中称赞股市表现：股市创下新纪录。",
+          "url": "https://wallstreetcn.com/livenews/3108013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "特朗普说去不去儿子婚礼都会被骂",
@@ -160,7 +215,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -171,7 +226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -182,7 +237,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -193,15 +248,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "阿联酋据悉加入沙特及卡塔尔阵营 呼吁特朗普勿重启对伊战争",
+          "url": "https://flash.jin10.com/detail/20260522200014755800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -215,6 +281,17 @@
           "time_info": "[12时58分 ~ 16时23分]"
         },
         {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
           "url": "https://wallstreetcn.com/articles/3772830",
           "source": "华尔街见闻",
@@ -224,6 +301,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时58分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 20时15分]"
         },
         {
           "title": "据英国金融时报：法国财政部长表示，各国在了解伊朗冲突将持续多久之前，无法决定是否释放更多石油储备。",
@@ -243,26 +332,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗任命外交部发言人巴加埃担任谈判团队发言人。",
+          "url": "https://flash.jin10.com/detail/20260522200931630800",
+          "source": "金十数据",
           "ranks": [
-            20
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "20时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -276,15 +365,37 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
+          "title": "美股指数期货短线拉升，标普500指数期货上涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260522201407268800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
           "url": "https://www.cls.cn/detail/2378668",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "AI浪潮提振全球股市，美股期指齐涨，存储芯片股走低，老虎证券盘前大跌40%，美伊僵局推升油价",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
@@ -301,7 +412,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -310,9 +421,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "据The Information：宁德时代计划投资DeepSeek。",
+          "url": "https://flash.jin10.com/detail/20260522195855222800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
@@ -345,8 +484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 20时15分]"
         }
       ]
     }
