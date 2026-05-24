@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-05-24T15:52:41.621381+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-05-24T17:52:00.496211+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 33,
       "titles": [
         {
-          "title": "伊朗方面披露美伊或将签署的备忘录内容细节",
-          "url": "https://wallstreetcn.com/livenews/3108462",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟委员会主席冯德莱恩：重申霍尔木兹海峡重开的重要性，并强调伊朗不得发展核武器。",
+          "url": "https://flash.jin10.com/detail/20260524173615766800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "17时52分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我对美国与伊朗达成协议的进展表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260524173611131800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "消息人士：伊朗未同意交出高浓缩铀库存",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -47,9 +58,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗高级消息人士：伊朗核问题不属于初步谅解备忘录的一部分",
+          "url": "https://wallstreetcn.com/livenews/3108478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美媒称伊朗同意放弃高浓缩铀库存",
@@ -57,11 +79,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 17时52分]"
+        },
+        {
+          "title": "伊朗方面披露美伊或将签署的备忘录内容细节",
+          "url": "https://wallstreetcn.com/livenews/3108462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 15时52分]"
+          "time_info": "[15时52分 ~ 17时52分]"
         },
         {
           "title": "伊朗战争距离真正结束，就差临门一脚了",
@@ -97,6 +132,17 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
+          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
+          "url": "https://wallstreetcn.com/articles/3772994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
+        },
+        {
           "title": "伊朗：正努力敲定谅解备忘录",
           "url": "https://www.toutiao.com/trending/7642198757459116075/",
           "source": "今日头条",
@@ -114,7 +160,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -128,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装力量保持“最高战备状态”",
+          "url": "https://wallstreetcn.com/livenews/3108477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "伊朗否认有关暂停铀浓缩10年的报道 称谈判重点只有“结束战争”",
@@ -152,15 +209,37 @@
           "time_info": "13时01分"
         },
         {
+          "title": "欧洲央行管委Kocher：除非伊朗局势改善，否则欧洲央行必须集中精力采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3108463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "美国国务卿鲁比奥：重申伊朗绝不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260524153205439800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：高级消息人士透露，下一轮美国与伊朗之间的会谈可能于6月5日举行。美国和伊朗将在开始谈判最终协议时派遣各自的首席代表。",
+          "url": "https://flash.jin10.com/detail/20260524163519717800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美国国务卿鲁比奥：认为今天可能会有更多关于伊朗局势的消息。",
@@ -169,7 +248,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -180,9 +259,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：如果美国继续制造障碍，将无法达成最终谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260524162812415800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：伊朗总统警告不要散布关于与美国达成协议的相互矛盾的叙述。",
@@ -191,9 +281,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国之间的谅解备忘录中一两个条款的分歧依然存在。（外媒更正，非“两三个”。）",
+          "url": "https://flash.jin10.com/detail/20260524162657867800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "据半岛电视台：伊朗副外长表示，我们追求与武力相结合的和平，追求与尊严相结合的外交，并捍卫我们的领土。",
@@ -207,15 +308,37 @@
           "time_info": "13时01分"
         },
         {
+          "title": "伊朗革命卫队：伊武装力量保持“最高战备状态”",
+          "url": "https://flash.jin10.com/detail/20260524162336020800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：潜在的谅解备忘录包括在谈判期间暂时解除对伊朗石油、天然气和石化的制裁。",
           "url": "https://flash.jin10.com/detail/20260524151447603800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "据路透社：伊朗高级消息人士表示，如果伊朗最高国家安全委员会批准该谅解备忘录，将会提交给最高领袖伊朗最高领袖哈梅内伊进行最终批准。",
+          "url": "https://flash.jin10.com/detail/20260524161143643800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国承诺从伊朗周边撤军这一举措是德黑兰在潜在谅解备忘录中强调的另一个要点。",
@@ -224,9 +347,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "英国首相斯塔默：伊朗绝不能被允许发展核武器，这是至关重要的。",
+          "url": "https://flash.jin10.com/detail/20260524155958178800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "英国首相斯塔默：我欢迎美国与伊朗之间关于达成协议的进展。",
+          "url": "https://flash.jin10.com/detail/20260524155919292800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -242,8 +387,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
+        },
+        {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
+          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
+          "time_info": "[15时52分 ~ 17时52分]"
         },
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -258,27 +426,16 @@
           "time_info": "[13时00分 ~ 15时52分]"
         },
         {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            1
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
-        },
-        {
-          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
-          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
         },
         {
           "title": "特朗普回应白宫附近枪击案 呼吁加强白宫安保",
@@ -292,33 +449,23 @@
           "time_info": "13时01分"
         },
         {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
         },
         {
           "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
           "url": "https://v.ifeng.com/c/8tMPX6NaRot",
           "source": "凤凰网",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
-        },
-        {
-          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
-          "url": "https://wallstreetcn.com/articles/3772984",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             8
           ],
           "is_new": false,
@@ -418,18 +565,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -440,8 +588,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时52分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
+          "time_info": "[15时52分 ~ 17时52分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -455,16 +627,15 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 15时52分]"
+          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -478,24 +649,13 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
@@ -514,8 +674,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -526,8 +686,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 17时52分]"
         }
       ]
     },
