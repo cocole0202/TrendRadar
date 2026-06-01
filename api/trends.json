@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-06-01T13:59:27.194771+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-01T21:33:08.586377+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "报道称伊朗停止与美国沟通后，美国国债跌幅扩大。",
+          "url": "https://flash.jin10.com/detail/20260601212032584800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "伊朗决定暂停与美谈判并彻底封锁海峡",
+          "url": "https://flash.jin10.com/detail/20260601211956833800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：在满足伊朗对停止以色列在黎巴嫩和加沙地区行动的要求之前，不会进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260601211831839800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗及抵抗阵线已决定全面封锁霍尔木兹海峡。作为回应措施，其他战线也可能被启动，包括曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260601211747891800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗官员要求以色列立即停止在加沙和黎巴嫩的军事行动。伊朗还要求以色列在谈判恢复前，全面撤出其在黎巴嫩占领的地区。",
+          "url": "https://flash.jin10.com/detail/20260601211725704800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 21时33分]"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
         {
           "title": "伊朗宣布打击并摧毁美军目标",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E5%B9%B6%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
@@ -17,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：鉴于以色列在黎巴嫩持续采取军事行动，同时黎巴嫩问题原本就是停火协议的前提条件之一，而目前包括黎巴嫩在内的所有战线上的停火均已遭到破坏，伊朗谈判代表团将停止“通过中间人进行对话和文本交换”。",
+          "url": "https://flash.jin10.com/detail/20260601211627208800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
@@ -30,15 +118,26 @@
           "time_info": "13时59分"
         },
         {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗因抗议以色列的罪行而停止与美国的信息交流。",
+          "url": "https://flash.jin10.com/detail/20260601211401645800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "21时33分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发布摧毁美军无人机的视频",
+          "url": "https://wallstreetcn.com/livenews/3112456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
@@ -52,6 +151,28 @@
           "time_info": "13时59分"
         },
         {
+          "title": "据报道，伊朗谈判团队将停止“通过中介进行对话和文本交流”。",
+          "url": "https://flash.jin10.com/detail/20260601211225785800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "伊朗总统：将确保日本船只通过霍尔木兹海峡更加顺畅。",
+          "url": "https://wallstreetcn.com/livenews/3112449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "伊朗：美若再战 就是一条道走到黑",
           "url": "https://flash.jin10.com/detail/20260601131521785800",
           "source": "金十数据",
@@ -61,6 +182,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "美军称拦截两枚伊朗向驻科威特美军基地发射的导弹",
+          "url": "https://wallstreetcn.com/livenews/3112445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们将采取一切措施，恢复霍尔木兹海峡的海上交通，维护水道的稳定与安全。",
+          "url": "https://flash.jin10.com/detail/20260601210126603800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "美国中央司令部：美军昨晚拦截了两枚伊朗的弹道导弹。 导弹的目标是驻科威特美军。 导弹被击落，无美军人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3112433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据报道，伊朗将暂停与美国沟通，以抗议以色列相关行动。受此消息影响，美股股指期货短线跳水，纳指期货日内转跌；国际油价短线拉升；现货黄金短线下挫30美元；德国国债和英国国债跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3112469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
+          "title": "美股三大股指期货全线转跌，欧洲斯托克600指数迅速下跌0.8%。",
+          "url": "https://flash.jin10.com/detail/20260601211433875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3112458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "英伟达美股夜盘股价上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-01）",
+          "url": "https://flash.jin10.com/detail/20260601210447282800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
@@ -76,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 21时33分]"
         },
         {
           "title": "特朗普：伊朗真的很想达成协议，最终一切都会顺利解决，大家只需坐下来，放轻松。",
@@ -130,23 +356,6 @@
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达美股夜盘股价上涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3112174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
