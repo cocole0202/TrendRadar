@@ -1,314 +1,116 @@
 {
-  "generated_at": "2026-06-04T18:59:36.672246+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-05T13:14:16.179957+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 18时59分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "title": "特朗普最新支持率曝光，压力骤增",
+          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
           "source": "凤凰网",
           "ranks": [
-            4,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 18时59分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
-          "url": "https://wallstreetcn.com/articles/3773781",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 18时59分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
           "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
+          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2390155",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美众议院通过决议限制特朗普对伊动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
-          "url": "https://www.cls.cn/detail/2390381",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "特朗普将提名其前私人律师任美国司法部长",
-          "url": "https://wallstreetcn.com/livenews/3114206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
-          "url": "https://flash.jin10.com/detail/20260604183057599800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 18时59分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "如何看待美股窄牛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗突然变了，美国突然客气了",
-          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
-          "url": "https://news.ifeng.com/c/8tenpfE2zdL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "伊朗外交部长：若以色列袭击贝鲁特 伊朗将坚决回击",
-          "url": "https://wallstreetcn.com/livenews/3114217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美三部门就美对伊朗军事行动展开审查",
-          "url": "https://wallstreetcn.com/livenews/3114364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗圣城军指挥官卡尼表示，黎巴嫩方面的最低要求是以色列恢复到战争前的边界。",
-          "url": "https://flash.jin10.com/detail/20260604182137336800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 18时59分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
-          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
           "source": "知乎",
           "ranks": [
-            18
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     }
