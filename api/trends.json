@@ -1,554 +1,172 @@
 {
-  "generated_at": "2026-06-24T20:17:04.994079+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-06-25T13:02:37.489654+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时16分 ~ 20时17分]"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普表示，检查员将被允许进入伊朗铀存放地点。",
-          "url": "https://flash.jin10.com/detail/20260624201135247800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "特朗普称国会限制总统战争权力“不合时宜”",
-          "url": "https://flash.jin10.com/detail/20260624123008547800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "特朗普：大型石油公司没有降低油价，已指示司法部立即调查。 汽油价格“最好赶紧下降”。",
-          "url": "https://wallstreetcn.com/livenews/3123784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
-          "url": "https://wallstreetcn.com/livenews/3124026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 20时17分]"
-        },
-        {
-          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
-          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 20时17分]"
-        },
-        {
-          "title": "特朗普：美国将释放部分伊朗资金 伊朗承诺不对霍尔木兹海峡船只收费",
-          "url": "https://wallstreetcn.com/livenews/3124020",
+          "title": "特朗普：委内瑞拉强震造成惨重死亡",
+          "url": "https://wallstreetcn.com/livenews/3124436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
-          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "13时02分"
         },
         {
-          "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
-          "url": "https://www.cls.cn/detail/2407452",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "13时02分"
         },
         {
-          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
-          "url": "https://www.cls.cn/detail/2407367",
-          "source": "财联社热门",
+          "title": "特朗普：委内瑞拉地震后，美国已准备好提供帮助。已指示各机构做好准备，迅速采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3124431",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "13时02分"
         },
         {
-          "title": "美指强势突破，我们被特朗普的弱美元骗了吗？",
-          "url": "https://flash.jin10.com/detail/20260624122051163800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "特朗普指控石油公司“宰客”，下令司法部介入",
-          "url": "https://flash.jin10.com/detail/20260624121350930800",
-          "source": "金十数据",
+          "title": "民调：特朗普支持率再次跌至34%",
+          "url": "https://www.toutiao.com/trending/7653743693962477606/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "13时02分"
         },
         {
-          "title": "美国财长贝森特：到特朗普任期结束时，赤字与GDP之比可降至4%以下。",
-          "url": "https://flash.jin10.com/detail/20260624195741293800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "美国财长贝森特：（关于美联储及降息）美国总统特朗普对美联储主席沃什充满信心。",
-          "url": "https://flash.jin10.com/detail/20260624195529766800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "美国财长贝森特：美国总统特朗普公开和私下均表示他对美联储主席沃什有信心。",
-          "url": "https://flash.jin10.com/detail/20260624195505267800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
-          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时16分 ~ 20时17分]"
-        },
-        {
-          "title": "伊朗议长说中东安全由中东国家决定",
-          "url": "https://flash.jin10.com/detail/20260624162206329800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "伊朗议长说中东安全由中东国家决定",
-          "url": "https://wallstreetcn.com/livenews/3123904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥与阿联酋领导层讨论了伊朗协议、霍尔木兹海峡的安全通行以及该地区和平与稳定的重要性等问题。",
-          "url": "https://flash.jin10.com/detail/20260624200404828800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
           "source": "知乎",
           "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 20时17分]"
-        },
-        {
-          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
-          "url": "https://wallstreetcn.com/livenews/3124023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
-          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "13时02分"
         },
         {
-          "title": "美国财长贝森特：我们将与民主党新路线形成鲜明对比。 结构性通胀一直存在于服务业。 没有理由认为301贸易评估不会成功。 在AI领域，法国远远落后于美国和中国，位列第三。 美元主导地位至关重要。 伊朗方面将以美元开具发票。 委内瑞拉将重回美元体系。 在乌克兰局势结束后，俄罗斯将希望恢复美元体系。 伊朗的资金最初将通过多哈发放。 伊朗的大部分资金将用于购买美国商品。 美国财政部将监督伊朗资金分配。",
-          "url": "https://wallstreetcn.com/livenews/3124017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "以色列证实向伊朗偷运数万星链",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%81%E5%AE%9E%E5%90%91%E4%BC%8A%E6%9C%97%E5%81%B7%E8%BF%90%E6%95%B0%E4%B8%87%E6%98%9F%E9%93%BE%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "伊朗总统种树太投入 巴总理拦不住",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%8D%E6%A0%91%E5%A4%AA%E6%8A%95%E5%85%A5+%E5%B7%B4%E6%80%BB%E7%90%86%E6%8B%A6%E4%B8%8D%E4%BD%8F",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "伊朗议长卡利巴夫：黎巴嫩停火与伊朗停火同等重要。",
-          "url": "https://wallstreetcn.com/livenews/3123875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "伊朗外交部：暂无允许国际原子能机构检查核设施的计划",
-          "url": "https://wallstreetcn.com/livenews/3124001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "伊朗总统称若无导弹伊朗已成加沙",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%8B%A5%E6%97%A0%E5%AF%BC%E5%BC%B9%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%88%90%E5%8A%A0%E6%B2%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "报道：伊朗告知哈马斯将在与美国的谈判中提出加沙遭袭问题",
-          "url": "https://wallstreetcn.com/livenews/3123873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "美国财长贝森特：（关于美联储）需对伊朗冲突对通胀的影响保持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260624195412723800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 20时17分]"
-        },
-        {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 16时28分]"
-        },
-        {
-          "title": "美股盘前，半导体股多数上涨，英特尔涨约2%，美光科技涨约3%，高通涨约3%，ARM涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3123895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "美股半导体股盘前普涨，美光科技(MU.O)、高通(QCOM.O)涨超3%，英特尔(INTC.O)、迈威尔科技(MRVL.O)涨约2%，AMD(AMD.O)涨1.5%。",
-          "url": "https://flash.jin10.com/detail/20260624160341350800",
+          "title": "特朗普借250周年大庆喊话：“美国回来了！”",
+          "url": "https://flash.jin10.com/detail/20260625115216844800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "麦格理下调黄金展望，目前预计第三季度金价为每盎司4,450美元，较此前预测下调3.3%；第四季度为每盎司4,300美元，下调2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3123787",
-          "source": "华尔街见闻-快讯",
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "13时02分"
         },
         {
-          "title": "120亿资金“跑路”！金价不断逼近4000大关，一切只因沃什上位？",
-          "url": "https://flash.jin10.com/detail/20260624201012290800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "金价同时面对三重利空，4000是终点还是跳板？",
-          "url": "https://flash.jin10.com/detail/20260624121205050800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "金价下跌有人观望有人出手 金价跳水婚庆类订单升温",
-          "url": "https://wallstreetcn.com/livenews/3123997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "美联储加息3次金价或跌至3800",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=26&Refer=top",
+          "title": "金价跌至去年10月水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E5%8E%BB%E5%B9%B410%E6%9C%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "13时02分"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 20时17分]"
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 16时28分]"
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 20时17分]"
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美总统称或无法查明谁袭击了伊朗小学",
+          "url": "https://www.toutiao.com/trending/7655095667781877786/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
