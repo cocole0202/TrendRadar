@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-06-26T13:06:40.657603+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-26T18:48:01.078011+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
           "url": "https://www.cls.cn/detail/2409704",
@@ -72,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "伊副外长：通过霍尔木兹海峡必须与伊朗协调",
+          "url": "https://flash.jin10.com/detail/20260626175424285800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -80,26 +124,16 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "金价跌回3字头 半年回撤30%",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2547979",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 18时48分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -109,8 +143,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 18时48分]"
         },
         {
           "title": "金价跌回3字头半年回撤30%",
@@ -118,6 +152,17 @@
           "source": "今日头条",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 18时48分]"
+        },
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -145,11 +190,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 18时48分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -166,7 +212,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -189,13 +235,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-26）",
+          "url": "https://flash.jin10.com/detail/20260626181839754800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
         {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
           "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
