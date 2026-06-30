@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-06-30T13:01:40.923511+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-30T16:33:55.508292+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴，被以军列入“死亡名单”",
+          "url": "https://news.ifeng.com/c/8uNTWr0VDLQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "伊朗总统：达成伊美谅解备忘录经与穆杰塔巴充分协调",
+          "url": "https://wallstreetcn.com/livenews/3126606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "据伊朗Press TV：在一次电话会议中，伊朗外长阿拉格齐与法国外长巴罗讨论了近期的地区和国际动态，重点关注伊斯兰堡谅解备忘录的实施以及结束对伊朗战争的努力。",
+          "url": "https://flash.jin10.com/detail/20260630121819218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -23,11 +96,24 @@
           "url": "https://www.cls.cn/detail/2412327",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
         },
         {
           "title": "特朗普“和粉丝吵翻了”",
@@ -41,21 +127,21 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
           "source": "凤凰网",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -84,57 +170,41 @@
           "url": "https://wallstreetcn.com/articles/3775756",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以色列防长：准备好独立打击伊朗",
-          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
         },
         {
-          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2412298",
+          "title": "美股出现罕见信号，“入熊”概率高达67%！",
+          "url": "https://www.cls.cn/detail/2412465",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
-        },
-        {
-          "title": "据伊朗Press TV：在一次电话会议中，伊朗外长阿拉格齐与法国外长巴罗讨论了近期的地区和国际动态，重点关注伊斯兰堡谅解备忘录的实施以及结束对伊朗战争的努力。",
-          "url": "https://flash.jin10.com/detail/20260630121819218800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
+        },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
           "url": "https://www.cls.cn/detail/2412167",
@@ -147,15 +217,15 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -171,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
         }
       ]
     },
