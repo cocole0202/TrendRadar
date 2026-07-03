@@ -1,295 +1,94 @@
 {
-  "generated_at": "2026-07-01T19:21:25.058173+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-07-03T12:47:27.656567+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长会见卡塔尔首相。",
-          "url": "https://flash.jin10.com/detail/20260701185200954800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗副外长会见卡塔尔首相。伊朗副外长讨论美国谅解备忘录的落实情况。伊朗表示最终协议的谈判尚未开始。（IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3127372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗称美若无法约束宠物伊朗将出手",
-          "url": "https://wallstreetcn.com/livenews/3127371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗队回国前留下一封信",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%9B%9E%E5%9B%BD%E5%89%8D%E7%95%99%E4%B8%8B%E4%B8%80%E5%B0%81%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
-          "title": "伊朗称一艘外国船只在霍尔木兹海峡航行时搁浅，这艘集装箱船使用的是未经批准航线。（伊朗官方电视台）",
-          "url": "https://wallstreetcn.com/livenews/3127273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "以色列国防部长：如有必要 以色列将再次打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3127367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗警方：在东南部锡斯坦-俾路支斯坦省发生武装袭击，一名警察遇害。",
-          "url": "https://flash.jin10.com/detail/20260701125221411800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：任何针对伊朗人民和领导层的威胁都将遭到立即且强有力的回应。",
-          "url": "https://flash.jin10.com/detail/20260701184618683800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "德国总理默茨：（关于伊朗）在该地区的重建问题上，我们可以讨论任何事情，但我们需要停火。",
-          "url": "https://flash.jin10.com/detail/20260701184305113800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "据伊朗国家媒体：一艘外国集装箱船在霍尔木兹海峡搁浅，原因是未按伊朗指定航线行驶。",
-          "url": "https://flash.jin10.com/detail/20260701155829333800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 16时41分]"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美股盘前，银矿股中下跌，Hecla Mining跌1.5%，Coeur Mining跌1.2%，Silvercorp Metals跌4.2%。",
-          "url": "https://flash.jin10.com/detail/20260701161635225800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 19时21分]"
-        },
-        {
-          "title": "美股盘前三大股指期货下跌",
-          "url": "https://www.douyin.com/hot/2554626",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "美股盘前， 存储芯片股持续走低，美光科技跌近3%，闪迪跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/3127264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "12时47分"
         },
         {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
+          "title": "美空军少校呼吁弹劾特朗普被捕",
+          "url": "https://www.toutiao.com/trending/7657766306192490532/",
+          "source": "今日头条",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "12时47分"
         },
         {
-          "title": "白宫称特朗普加密币获利无利益冲突",
-          "url": "https://wallstreetcn.com/livenews/3127169",
-          "source": "华尔街见闻-快讯",
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "12时47分"
         },
         {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "开箱特朗普金色手机，499美元就这水平？",
-          "url": "https://news.ifeng.com/c/8uOymWnURUY",
-          "source": "凤凰网",
+          "title": "特朗普重塑外交准则：以AI实力重新定义盟友",
+          "url": "https://flash.jin10.com/detail/20260703121136992800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：特朗普已承诺美国“将让特拉维夫的宠物们闭嘴”。若他们无视“主人”，伊朗将对其进行“教育”。",
-          "url": "https://flash.jin10.com/detail/20260701184607021800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "12时47分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
+          "source": "财联社热门",
           "ranks": [
-            19
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
@@ -298,33 +97,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金价大跌后未来怎么走",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "百度热搜",
+          "title": "弱非农推升金价，但资金确认还差一步？",
+          "url": "https://flash.jin10.com/detail/20260703115449576800",
+          "source": "金十数据",
           "ranks": [
-            19
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
+          "title": "美媒曝猛料！美国曾秘密提醒伊朗：以色列要暗杀你们的谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703122811638800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 19时21分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
