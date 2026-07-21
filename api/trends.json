@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T12:10:59.319018+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-21T15:29:44.145306+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
+        },
         {
           "title": "伊朗公布打击多国美军基地战果",
           "url": "https://news.ifeng.com/c/8uvTwaa2exp",
@@ -19,15 +30,26 @@
           "time_info": "12时10分"
         },
         {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
+          "url": "https://news.ifeng.com/c/8uwFQqRkygA",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "15时29分"
+        },
+        {
+          "title": "伊朗革命卫队称打击约旦和巴林境内的美国目标",
+          "url": "https://wallstreetcn.com/livenews/3137419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "“全面战争”！伊朗总统最新发声",
@@ -37,19 +59,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
           "url": "https://wallstreetcn.com/articles/3777457",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "伊朗外长：到目前还没见过新最高领袖",
@@ -59,41 +82,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2431950",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "伊朗海军同时从3个方向猛烈打击美军",
           "url": "https://www.toutiao.com/trending/7663674772672512009/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "美军伤亡不断攀升 美国如何报复伊朗",
           "url": "https://www.toutiao.com/trending/7664792452200500746/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "伊朗称打击巴林和科威特境内美军目标",
@@ -105,12 +131,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "东盟外长会议警告伊朗战争外溢风险",
+          "url": "https://wallstreetcn.com/livenews/3137381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "伊朗战争迫使亚洲国家高价买“气”",
+          "url": "https://flash.jin10.com/detail/20260721144305208800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
@@ -120,8 +168,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
@@ -131,8 +179,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "美伊战局逼近十字路口！特朗普考虑恢复全面战争，10天停火方案能否救市场？",
@@ -146,15 +205,15 @@
           "time_info": "12时10分"
         },
         {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
           "source": "凤凰网",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "15时29分"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -177,12 +236,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "舒默称特朗普是美国史上最腐败总统",
+          "url": "https://www.toutiao.com/trending/7663682649068109887/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -192,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -203,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
@@ -214,8 +284,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "美股股指期货走强，纳指期货涨超1%，道指期货涨0.27%，标普500指数期货涨0.4%。",
@@ -238,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -250,22 +331,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
@@ -292,19 +375,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月21日（周二）上海金午盘价为888.94元/克，较国际金价(887.08元/克)，高1.86元/克",
+          "url": "https://flash.jin10.com/detail/20260721150144373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     }
