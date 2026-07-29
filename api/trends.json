@@ -1,12 +1,172 @@
 {
-  "generated_at": "2026-07-29T11:59:40.010111+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-07-29T15:37:56.925952+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
+      "keyword_group": "特朗普",
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国总统特使威特科夫、 美国财长贝森特、 美国国务卿鲁比奥参加了美国总统特朗普与以色列总理内塔尼亚胡的会议。",
+          "url": "https://flash.jin10.com/detail/20260729000041721800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "以色列政府新闻办公室发布内塔尼亚胡和特朗普的会晤照片。",
+          "url": "https://flash.jin10.com/detail/20260728235023012800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
+          "url": "https://flash.jin10.com/detail/20260728233344773800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
+          "url": "https://wallstreetcn.com/livenews/3141108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "格雷厄姆下葬，特朗普、泽连斯基、内塔尼亚胡同时现身",
+          "url": "https://wallstreetcn.com/livenews/3141510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基发布的照片显示，美国国务卿鲁比奥出席了与美国总统特朗普的会议，但未见美国副总统万斯的身影。",
+          "url": "https://flash.jin10.com/detail/20260728232922798800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与特朗普会议很成功，普就“爱国者”导弹生产许可进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260728232730170800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "特朗普在追悼仪式上分发薄荷糖",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "铁粉深陷特朗普“杀猪盘”血本无归",
+          "url": "https://www.toutiao.com/trending/7667792760249781814/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：海湾合作委员会秘书长表示，伊拉克境内亲伊朗民兵的行为构成局势升级，并构成直接威胁。",
+          "url": "https://flash.jin10.com/detail/20260729153350973800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
@@ -28,6 +188,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时37分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时37分]"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时37分]"
         },
         {
           "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
@@ -63,17 +258,6 @@
           "time_info": "00时38分"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
@@ -85,35 +269,13 @@
           "time_info": "00时38分"
         },
         {
-          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
-          "url": "https://www.cls.cn/detail/2439585",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
           "url": "https://wallstreetcn.com/livenews/3141422",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -127,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "约旦称拦截5枚自伊朗方向发射的导弹",
+          "url": "https://wallstreetcn.com/livenews/3141497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
@@ -141,9 +314,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时37分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时37分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -155,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -195,11 +368,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 15时37分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -207,11 +381,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 15时37分]"
         },
         {
           "title": "美股芯片存储大跌",
@@ -220,7 +395,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -238,111 +413,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美国总统特使威特科夫、 美国财长贝森特、 美国国务卿鲁比奥参加了美国总统特朗普与以色列总理内塔尼亚胡的会议。",
-          "url": "https://flash.jin10.com/detail/20260729000041721800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
-          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "以色列政府新闻办公室发布内塔尼亚胡和特朗普的会晤照片。",
-          "url": "https://flash.jin10.com/detail/20260728235023012800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
-          "url": "https://flash.jin10.com/detail/20260728233344773800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
-          "url": "https://wallstreetcn.com/livenews/3141108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基发布的照片显示，美国国务卿鲁比奥出席了与美国总统特朗普的会议，但未见美国副总统万斯的身影。",
-          "url": "https://flash.jin10.com/detail/20260728232922798800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与特朗普会议很成功，普就“爱国者”导弹生产许可进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260728232730170800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "特朗普在追悼仪式上分发薄荷糖",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -353,7 +423,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -364,7 +434,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         }
