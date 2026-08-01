@@ -1,12 +1,128 @@
 {
-  "generated_at": "2026-08-01T12:16:39.699137+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-01T15:24:44.077906+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
+        },
+        {
+          "title": "科威特军队总参谋部：科威特防空部队目前正在应对敌方无人机攻击，以回击伊朗的侵略行径。若听到爆炸声，那是我方防空系统拦截敌方攻击所致。我们呼吁所有人遵守主管部门发布的安全与防护指令。",
+          "url": "https://flash.jin10.com/detail/20260801142851230800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗：已制定计划应对潜在美以袭击",
+          "url": "https://www.toutiao.com/trending/7668829809023402026/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "科威特军方：防空部队目前正在拦截来自伊朗的敌方导弹。",
+          "url": "https://flash.jin10.com/detail/20260801142733421800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗议长：伊朗已赢得战争，需扩大最高领袖权威以巩固成果",
+          "url": "https://flash.jin10.com/detail/20260801141957318800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗打击美军空中任务后勤保障枢纽",
+          "url": "https://www.douyin.com/hot/2591858",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "据伊通社（IRNA）报道，伊朗政府发言人法蒂玛·穆哈杰拉尼表示，当敌人将炼油厂、油库、燃料管道乃至天然气设施列为打击目标时，其用意显然远不止摧毁几座工业建筑。敌人真正想要的是扰乱伊朗人民的日常生活——制造排队、散布焦虑、动摇社会的心理安全防线。正因如此，能源安全不仅是国家安全的基石，更是国家韧性的关键支柱。",
+          "url": "https://flash.jin10.com/detail/20260801133336850800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
           "url": "https://www.zhihu.com/question/2066223484309434997",
@@ -23,22 +139,47 @@
           "url": "https://www.zhihu.com/question/2066599476764964006",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
           "title": "DeepSeekV4Flash正式版跑分出炉",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E8%B7%91%E5%88%86%E5%87%BA%E7%82%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash模型权重发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "15时24分"
         },
         {
           "title": "DeepSeek V4 Flash对比",
@@ -50,84 +191,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
-        {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
-          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
           "source": "凤凰网",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
-          "title": "伊朗警告打击美以能源基础设施",
-          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
-          "source": "凤凰网",
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://wallstreetcn.com/articles/3778449",
-          "source": "华尔街见闻",
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "伊朗：已制定计划应对潜在美以袭击",
-          "url": "https://www.toutiao.com/trending/7668829809023402026/",
-          "source": "今日头条",
-          "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
-          "title": "伊朗打击美军空中任务后勤保障枢纽",
-          "url": "https://www.douyin.com/hot/2591858",
-          "source": "抖音",
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
@@ -137,19 +280,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "15时24分"
         },
         {
           "title": "美股三大股指全线收涨",
@@ -176,56 +331,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -234,11 +339,12 @@
           "url": "https://wallstreetcn.com/articles/3778448",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
           "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
@@ -265,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 15时24分]"
         },
         {
           "title": "美联储没加息，30年期美债为何先“破防”？｜大师复盘",
